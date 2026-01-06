@@ -1,0 +1,36 @@
+# 核心框架
+langchain==1.0.5
+langchain-openai==1.0.2
+langchain-community>=0.0.10
+
+# RAG和向量数据库
+faiss-cpu==1.11.0
+sentence-transformers==4.1.0
+transformers>=4.35.0
+
+# 数据处理
+numpy==2.3.4
+pandas>=2.0.0
+
+# 文档处理
+python-docx==1.1.2
+pypdf==6.1.3
+PyPDF2==3.0.1
+python-dotenv==1.2.1
+
+# UI界面
+gradio==5.49.1
+
+# 大语言模型
+openai==2.7.1
+
+# 测试框架
+pytest>=7.0.0
+pytest-mock>=3.10.0
+pytest-cov>=4.0.0
+pytest-html>=3.1.0
+
+# 工具
+chromadb>=0.4.17
+Requests==2.32.5
+
